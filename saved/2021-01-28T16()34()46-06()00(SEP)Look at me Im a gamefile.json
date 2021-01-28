@@ -1,0 +1,32 @@
+--- !ruby/object:Game
+word:
+- g
+- r
+- e
+- g
+- a
+- r
+- i
+- o
+- u
+- s
+progress:
+- _
+- r
+- e
+- _
+- _
+- r
+- _
+- _
+- _
+- _
+guess_limit: 9
+date_generated: !ruby/object:DateTime 2021-01-28 16:34:46.619238223 -06:00
+missed_guesses:
+- t
+- y
+- w
+- p
+saved: true
+file_name: Look at me Im a gamefile

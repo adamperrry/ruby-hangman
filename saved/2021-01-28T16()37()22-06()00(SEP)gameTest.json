@@ -1,0 +1,35 @@
+--- !ruby/object:Game
+word:
+- i
+- n
+- t
+- e
+- r
+- v
+- o
+- c
+- a
+- l
+- i
+- c
+progress:
+- _
+- _
+- t
+- e
+- _
+- _
+- o
+- _
+- _
+- _
+- _
+- _
+guess_limit: 9
+date_generated: !ruby/object:DateTime 2021-01-28 16:37:22.246335431 -06:00
+missed_guesses:
+- s
+- p
+- g
+saved: true
+file_name: gameTest

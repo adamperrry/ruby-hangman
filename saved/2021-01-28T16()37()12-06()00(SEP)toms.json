@@ -1,0 +1,34 @@
+--- !ruby/object:Game
+word:
+- l
+- i
+- f
+- e
+- l
+- e
+- s
+- s
+- l
+- y
+progress:
+- _
+- i
+- _
+- e
+- _
+- e
+- _
+- _
+- _
+- _
+guess_limit: 9
+date_generated: !ruby/object:DateTime 2021-01-28 16:37:12.113635175 -06:00
+missed_guesses:
+- b
+- p
+- o
+- t
+- a
+- u
+saved: true
+file_name: toms

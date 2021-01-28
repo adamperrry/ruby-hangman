@@ -1,0 +1,27 @@
+--- !ruby/object:Game
+word:
+- p
+- a
+- p
+- i
+- l
+- l
+- a
+progress:
+- p
+- _
+- p
+- _
+- _
+- _
+- _
+guess_limit: 9
+date_generated: !ruby/object:DateTime 2021-01-28 16:38:38.999442146 -06:00
+missed_guesses:
+- y
+- t
+- s
+- e
+- o
+saved: true
+file_name: I Only Got P
