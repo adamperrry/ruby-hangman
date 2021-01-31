@@ -66,7 +66,7 @@ module GameRunner
 
   def create_file_name(date:, name:)
     date_str = date.to_s.gsub(':', '()')
-    "saved/#{date_str}(SEP)#{name}.json"
+    "saved/#{date_str}(SEP)#{name}.yml"
   end
 
   # Dir.entries('saved').select{ |f| File.file? File.join('saved',f)}
